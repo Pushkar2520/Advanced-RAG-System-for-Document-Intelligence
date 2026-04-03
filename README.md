@@ -198,7 +198,7 @@ The voltage rating is 220V as specified in the electrical section.
 
 ---
 
-## 🚧 Future Improvements
+## Future Improvements
 
 * Add FastAPI / Web UI
 * Hybrid search (BM25 + vector)
